@@ -1,7 +1,7 @@
 {
-  "hash": "6acf91c44c85804bf03a2a7fa4cbcee1",
+  "hash": "4c8edbc4ad6e8a719c86b11bd953e087",
   "result": {
-    "markdown": "---\ntitle: \"Test Post 2\"\nauthor: \"Justine Shakespeare\"\ndate: \"2023-05-01\"\ncategories: [code, analysis]\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- \"here\"\ncat(\"write code\", x)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nwrite code here\n```\n:::\n:::",
+    "markdown": "---\ntitle: \"Test Post 2\"\nauthor: \"Justine Shakespeare\"\ndate: \"2023-05-01\"\ncategories: [code, analysis]\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- \"here\"\ncat(\"write code\", x)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nwrite code here\n```\n:::\n:::\n\n\nlalala second time",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

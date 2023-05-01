@@ -4,7 +4,7 @@
     "href": "posts/blog2.html",
     "title": "Test Post 2",
     "section": "",
-    "text": "This is a post with executable code.\n\nx &lt;- \"here\"\ncat(\"write code\", x)\n\nwrite code here"
+    "text": "This is a post with executable code.\n\nx &lt;- \"here\"\ncat(\"write code\", x)\n\nwrite code here\n\n\nlalala second time"
   },
   {
     "objectID": "posts/blog1.html",
