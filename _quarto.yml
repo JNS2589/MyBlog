@@ -5,16 +5,15 @@ website:
   title: "Justine's Blog"
   site-url: https://JNS2589.github.io/MyBlog
   navbar:
-    background: "#9DC7C8"
+    background: "#cornflowerblue"
     right:
-      - text: ""
-        href: https://github.com/DACSS
-      - text: "Contributors"
+      - text: "About"
         file: about.qmd
-      - href: https://umass.edu/sbs/dacss
-        text: "DACSS"
       - icon: github
-        href: https://github.com/DACSS
+        href: https://github.com/JNS2589
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/justineshakespeare/
         aria-label: GitHub
 
 execution:
