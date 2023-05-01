@@ -2,15 +2,10 @@ project:
   type: website
 
 website:
-  title: ""
+  title: "Justine's Blog"
   site-url: https://JNS2589.github.io/MyBlog
-  twitter-card:
-    creator: "@UMassDACSS"
-    site: "@UMassDACSS"
-  favicon: images/DACSS_Round_Network.png
   navbar:
-    background: "#881c1c"
-    logo: images/UMass White Wordmark Horiz.png
+    background: "#9DC7C8"
     right:
       - text: ""
         href: https://github.com/DACSS
@@ -25,11 +20,10 @@ website:
 execution:
   freeze: auto
 
-
 format:
   html:
-    mainfont: Open Sans
-    linkcolor: "#881c1c"
+    mainfont: Helvetica
+    linkcolor: "#08415C"
     toc: true
     theme: 
       light: [flatly, styles.scss]

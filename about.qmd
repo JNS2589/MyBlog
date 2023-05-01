@@ -1,10 +1,15 @@
 ---
-title: "Contributors"
-listing:
-  type: grid
-  contents: about
-  fields: [image, title]
-  sort: "title"
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/justineshakespeare/
+    - icon: github
+      text: Github
+      href: https://github.com/JNS2589
 ---
 
-Find out more about our DACSS students who contributed to the blog.
+Hi, my name is Justine Shakespeare and this is my blog for sharing my data analysis and visualization, including coursework from the [UMASS DACSS Graduate Certificate program](https://www.umass.edu/social-sciences/academics/dacss). Thanks for being here!
