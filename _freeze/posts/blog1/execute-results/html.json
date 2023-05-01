@@ -1,0 +1,14 @@
+{
+  "hash": "a6fe2f16754aa864f0c8d3e23b2ef257",
+  "result": {
+    "markdown": "---\ntitle: \"Test Post\"\nauthor: \"Justine Shakespeare\"\ndate: \"2023-05-01\"\ncategories: [code, analysis]\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- \"here\"\ncat(\"write code\", x)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nwrite code here\n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

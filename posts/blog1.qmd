@@ -1,0 +1,13 @@
+---
+title: "Test Post"
+author: "Justine Shakespeare"
+date: "2023-05-01"
+categories: [code, analysis]
+---
+
+This is a post with executable code.
+
+```{r}
+x <- "here"
+cat("write code", x)
+```
