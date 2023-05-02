@@ -5,7 +5,7 @@ website:
   title: "Justine"
   site-url: https://JNS2589.github.io/MyBlog
   navbar:
-    background: "#62B6CB"
+    background: "#E3655B"
     right:
       - text: "About"
         file: about.qmd
@@ -22,7 +22,7 @@ execution:
 format:
   html:
     mainfont: Helvetica
-    linkcolor: "#08415C"
+    linkcolor: "#18A999"
     toc: true
     theme: 
       light: [flatly, styles.scss]
